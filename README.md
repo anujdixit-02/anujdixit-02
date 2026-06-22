@@ -112,9 +112,11 @@ Interactive browser game using JavaScript
 
 ## Connect With Me
 
-* LinkedIn
-* GitHub
-* Email: [anuj29.2dixit@gmail.com](mailto:anuj29.2dixit@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anuj%20Dixit-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anuj-dixit-6972793b3/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-anujdixit--02-black?style=for-the-badge&logo=github)](https://github.com/anujdixit-02)
+
+Email: anuj29.2dixit@gmail.com
 
 ---
 
