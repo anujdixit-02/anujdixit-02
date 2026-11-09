@@ -1,122 +1,154 @@
-# Hi there, I'm Anuj Dixit
+# Anuj Dixit
 
-### B.Tech CSE (3rd Year) — DY Patil International University, Pune
+**Computer Science Engineering Student | Cloud Computing | Backend Development | AI/ML**
 
-### Cloud + Python Intern @ SnapWeaz
+B.Tech Computer Science Engineering, 3rd Year
+DY Patil International University, Pune, India
 
----
+## About
 
-## About Me
+I am a third-year Computer Science Engineering student with an interest in Cloud Computing, Backend Development, and Artificial Intelligence.
 
-I'm a Computer Science student passionate about learning and building real-world software projects.
+I have practical experience developing backend applications using Python, FastAPI, SQLAlchemy, and relational databases. During my internship at SnapWeaz, I contributed to SnapDrive, a cloud-based file management and sharing platform.
 
-My journey started with Web Development, where I learned HTML, CSS, and JavaScript fundamentals. Currently, I'm expanding my skills in Backend Development, Python, APIs, Databases, Cloud Technologies, and Data Structures & Algorithms.
+I also have hands-on experience with AWS infrastructure and machine learning, along with a strong foundation in Data Structures and Algorithms using C++.
 
-As a Cloud + Python Intern at SnapWeaz, I'm contributing to the development of **SnapDrive**, a cloud-based file storage and sharing platform being built as a team project.
+Currently, I am focused on strengthening my backend engineering, cloud architecture, and AI/ML skills through practical projects and continuous learning.
 
-*  Currently working on backend development projects
-*  Learning FastAPI, SQLAlchemy, Cloud Technologies, and DSA
-*  Open to collaborating on beginner-friendly projects
-*  Ask me about HTML, CSS, JavaScript, Python, and GitHub
-*  Reach me at: **[anuj29.2dixit@gmail.com](mailto:anuj29.2dixit@gmail.com)**
-*  Pune, India
+## Technical Skills
 
----
+**Programming Languages**
 
-## 🛠️ Tech Stack
+- Python
+- C++
+- JavaScript
+- SQL
 
-### Frontend
+**Cloud Computing**
 
-* HTML5
-* CSS3
-* JavaScript
+- AWS EC2, S3, IAM, VPC
+- VPC Peering
+- Application Load Balancer
+- RDS
+- CloudFront
+- CloudWatch
+- VPN
 
-### Backend
+**Backend Development**
 
-* Python
-* FastAPI
-* REST APIs
-* SQLAlchemy
-* SQLite
+- FastAPI
+- REST APIs
+- SQLAlchemy
+- JWT Authentication
+- PostgreSQL
+- SQLite
 
-### Tools & Technologies
+**Artificial Intelligence and Machine Learning**
 
-* Git
-* GitHub
-* VS Code
-* Cloud Computing Fundamentals
+- Scikit-learn
+- Pandas
+- NumPy
+- Random Forest
+- Decision Trees
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
 
----
+**Frontend Development**
 
-## Currently Learning
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Tailwind CSS
 
-* Data Structures & Algorithms (C++)
-* FastAPI
-* Database Design & Integration
-* Cloud Technologies
-* Software Development Workflows
-* Team Collaboration using Git & GitHub
+**Developer Tools**
 
----
+- Git
+- GitHub
+- VS Code
+
+## Professional Experience
+
+### Cloud + Python Intern | SnapWeaz
+
+*May 2026 – August 2026*
+
+- Developed backend functionality using Python and FastAPI.
+- Worked with SQLAlchemy and SQLite for database operations.
+- Contributed to SnapDrive, a cloud-based file storage and sharing platform.
+- Implemented file upload, download, search, and storage management functionality.
+- Developed and tested REST APIs and activity logging features.
+- Collaborated with team members using Git and GitHub workflows.
 
 ## Featured Projects
 
-### SnapDrive (Internship Project)
+### CyberGuard – Machine Learning-Based IoT Attack Detection
 
-Cloud-based file storage and sharing platform
+**Technologies:** Python, Scikit-learn, Pandas, NumPy, FastAPI
 
-**My Contributions:**
+- Developed a 12-class IoT network traffic classification system using the RT-IoT2022 dataset.
+- Processed 123,117 records and prepared 82 input features.
+- Trained Random Forest and Decision Tree classification models.
+- Achieved 99.85% accuracy and 97.56% macro F1 score using Random Forest.
+- Deployed the trained model through a FastAPI REST API.
 
-* File Upload & Download Modules
-* File Search Functionality
-* Storage Management Logic
-* Activity Logging System
-* API Testing & Integration
+### SnapDrive – Cloud-Based File Management System
 
-**Tech Stack:** Python, FastAPI, SQLAlchemy, SQLite
+**Technologies:** Python, FastAPI, SQLAlchemy, PostgreSQL, SQLite, Amazon S3, JWT
 
----
+- Developed a cloud-based file management platform.
+- Implemented file upload, download, folder management, and sharing functionality.
+- Integrated Amazon S3 for cloud object storage.
+- Implemented JWT authentication and email verification.
+- Added storage quota tracking, activity logging, and notifications.
+- Developed frontend and backend API integration.
 
-### Weather App
+### AWS Cloud Computing Labs
 
-Real-time weather information application
+**Technologies:** Amazon EC2, S3, IAM, VPC, RDS, CloudFront, CloudWatch
 
-**Tech Stack:** HTML, CSS, JavaScript
+- Practiced AWS infrastructure configuration and management.
+- Implemented networking and security configurations.
+- Explored private cloud resource access and load balancing.
+- Practiced cloud monitoring and security fundamentals.
 
----
+### Data Structures and Algorithms
 
-### E-Commerce Website (Amazon Clone)
+**Language:** C++
 
-Responsive frontend project inspired by Amazon
+- Solved 130+ DSA problems. &#x20;
 
-**Tech Stack:** HTML, CSS, JavaScript
+**DY Patil International University, Akurdi, Pune**
 
----
-
-### Rock Paper Scissors Game
-
-Interactive browser game using JavaScript
-
-**Tech Stack:** HTML, CSS, JavaScript
-
----
+Bachelor of Technology in Computer Science Engineering
+Specialization: Cloud Computing | Focus: AI/ML
+2024 – 2028 (Expected)
 
 ## Certifications
 
-* Agentic & Generative AI Workshop — MindLyft AI
-* Introduction to CSS3 — Johns Hopkins University
-* HTML5 Application Development Fundamentals — Johns Hopkins University
-* Technology Commercialization Part 1 — University of Rochester
+- Data Mining in Python – University of Michigan (Coursera)
+- Agentic and Generative AI Workshop
+- HTML5 Application Development Fundamentals
+- Introduction to CSS3
+- SnapWeaz Internship Completion Certificate
+
+## Currently Learning
+
+- Advanced Backend Development
+- AWS Cloud Architecture
+- Data Structures and Algorithms
+- Generative AI and AI/ML
+- Database Design and Optimization
+
+## Connect
+
+**GitHub:** [https://github.com/anujdixit-02](https://github.com/anujdixit-02)
+
+**LinkedIn:** [https://www.linkedin.com/in/anuj-dixit-6972793b3/](https://www.linkedin.com/in/anuj-dixit-6972793b3/)
+
+**Email:** [anuj29.2dixit@gmail.com](mailto\:anuj29.2dixit@gmail.com)
 
 ---
 
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anuj%20Dixit-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anuj-dixit-6972793b3/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-anujdixit--02-black?style=for-the-badge&logo=github)](https://github.com/anujdixit-02)
-
-Email: anuj29.2dixit@gmail.com
-
----
-
+*Interested in Cloud Engineering, Backend Development, AI/ML, and Software Engineering opportunities.*
