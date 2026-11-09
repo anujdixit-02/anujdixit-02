@@ -1,6 +1,6 @@
 # Hi there, I'm Anuj Dixit
 
-### B.Tech CSE (2nd Year) — DY Patil International University, Pune
+### B.Tech CSE (3rd Year) — DY Patil International University, Pune
 
 ### Cloud + Python Intern @ SnapWeaz
 
